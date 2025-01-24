@@ -40,4 +40,5 @@ pip install requests matplotlib seaborn
 A valid OpenWeatherMap API key. You can get an API key by signing up for a free account at OpenWeatherMap.
 
 
-#output ![Image](https://github.com/user-attachments/assets/4f1f2725-1d02-4a28-b312-972bb0671422)
+#output
+![Image](https://github.com/user-attachments/assets/4f1f2725-1d02-4a28-b312-972bb0671422)
